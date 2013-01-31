@@ -1,0 +1,1 @@
+Given a number , say 263 , is said to be colorful if the product of all its substrings is unique . 2 , 6 , 3 , 6*3 , 2*6 .But 2*3 is NOT a valid product . We have to consider substring only. Tell whether the number is colorful or not
